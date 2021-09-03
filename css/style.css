@@ -1,0 +1,4 @@
+/* the navbar styling */
+.navbar-effect ul li a:hover{
+    background-color: yellowgreen;
+}

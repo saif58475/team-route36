@@ -1,6 +1,7 @@
 /* the navbar styling */
 .navbar-effect ul li a:hover{
     background-color: yellowgreen;
+    color: white !important;
 }
 
 .nav-link{

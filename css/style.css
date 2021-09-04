@@ -2,3 +2,13 @@
 .navbar-effect ul li a:hover{
     background-color: yellowgreen;
 }
+
+.nav-link{
+    color: yellowgreen;
+}
+.carousel-caption {
+    color: black !important;
+}
+.carousel-indicators button{
+    background-color: black !important;
+}
